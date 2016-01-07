@@ -1,6 +1,6 @@
 <?php
 
-namespace ResultSystems\Validation;
+namespace FreedFelipe\Validation;
 
 use Illuminate\Validation\Validator as BaseValidator;
 use Symfony\Component\Translation\TranslatorInterface;

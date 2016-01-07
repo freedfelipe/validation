@@ -1,5 +1,3 @@
-[Vídeo tutorial PT-BR](https://www.youtube.com/watch?v=z451-TPk79w)
-
 Validation (Laravel Package)
 ==========
 
@@ -20,13 +18,13 @@ Run the Composer **update** comand:
 composer update
 ```
 
-In your **config/app.php** add *'ResultSystems\Validation\ValidationServiceProvider::class'* to the end of the **'providers'** array:
+In your **config/app.php** add *'FreedFelipe\Validation\ValidationServiceProvider::class'* to the end of the **'providers'** array:
 
 ```php
 'providers' => array(
     ...
     ...
-    ResultSystems\Validation\ValidationServiceProvider::class,
+    FreedFelipe\Validation\ValidationServiceProvider::class,
 ),
 ```
 

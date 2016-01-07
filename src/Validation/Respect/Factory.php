@@ -3,7 +3,7 @@
 /**
  * Copied code from  KennedyTedesco/Validation.
  */
-namespace ResultSystems\Validation\Respect;
+namespace FreedFelipe\Validation\Respect;
 
 use ReflectionClass;
 
