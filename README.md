@@ -8,7 +8,7 @@ Validation (Laravel Package)
 In the **require** key of **composer.json** file add the following:
 
 ```php
-"resultsystems/validation": "~1.0"
+"resultsystems/validation": "~1.1"
 ```
 
 

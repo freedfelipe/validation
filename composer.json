@@ -1,5 +1,5 @@
 {
-    "name": "resultsystems/validation",
+    "name": "freedfelipe/validation",
     "description": "Inspired 'KennedyTedesco Validation' - The power of 'Respect Validation' on Laravel.",
     "keywords": ["validation", "laravel", "respect", "rules"],
     "license": "MIT",
