@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "freedfelipe\\Validation\\": "src/Validation"
+            "FreedFelipe\\Validation\\": "src/Validation"
         }
     },
     "minimum-stability": "dev"
